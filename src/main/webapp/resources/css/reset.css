@@ -70,4 +70,10 @@ table
 {
 	display: block;
 }
-
+.modal-content {
+	background-color: #1ABC9C;
+	color: #fff;
+}
+.modal-header {
+  padding: 6px;
+}

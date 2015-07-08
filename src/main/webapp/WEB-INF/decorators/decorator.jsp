@@ -61,118 +61,157 @@
 		</div>
 
 	</div> --%>
-	<!-- /.container -->
+<!-- /.container -->
 <body id="backtotop">
 
-<div class="fullwidth clearfix">
-	<div id="topcontainer" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-		
-		<p><span class="fa fa-signal"></span></p>
-		<h1><span>Urban Factory</span><br />is coming soon</h1>
-		<p>It's almost ready to redefine the <span>fashion</span></p>
-		
-	</div>
-</div>
+	<div class="fullwidth clearfix">
+		<div id="topcontainer" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
 
-<div class="arrow-separator arrow-white"></div>
+			<p>
+				<span class="fa fa-signal"></span>
+			</p>
+			<h1>
+				<span>Urban Factory</span><br />is coming soon
+			</h1>
+			<p>
+				It's almost ready to redefine the <span>fashion</span>
+			</p>
 
-<div class="fullwidth colour1 clearfix">
-	<div id="countdown" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-		<div id="countdowncont" class="clearfix">
-			<ul id="countscript">
-				<li>
-					<span class="days">00</span>
-					<p>Days</p>
-				</li>
-				<li>
-					<span class="hours">00</span>
-					<p>Hours</p>
-				</li>
-				<li class="clearbox">
-					<span class="minutes">00</span>
-					<p>Minutes</p>
-				</li>
-				<li>
-					<span class="seconds">00</span>
-					<p>Seconds</p>
-				</li>
-			</ul>
 		</div>
-	
 	</div>
-</div>
 
-<div class="arrow-separator arrow-theme"></div>
+	<div class="arrow-separator arrow-white"></div>
 
-<div class="fullwidth colour2 clearfix">
-	<div id="maincont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
+	<div class="fullwidth colour1 clearfix">
+		<div id="countdown" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
 
-		<p>
-		<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. 
-		<a title="" href="#">Donec quis enim nulla</a>. 
-		Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas. <em>Donec venenatis</em>, risus et hendrerit ultrices, libero sem lacinia risus, ut convallis massa sapien nec libero. Suspendisse arcu orci, gravida nec aliquet ut, lacinia non nisl.</p>
-        <h2>Sign up and we'll let you know when we launch</h2>
-        <p>If you would like to receive <strong>news and special offers</strong> please send us your email address below:</p>
-		<div id="signupform" class="sb-search clearfix">
-			<form method="post" action="http://formspree.io/raj@urcloset.in" id="contact" class="clearfix">
-				<input class="sb-search-input" placeholder="Enter email ..." type="text" value="">
-				<input class="sb-search-submit" value="" type="submit">
-				<button class="formbutton" type="submit"><span class="fa fa-search"></span></button>
-			</form>
+			<div id="countdowncont" class="clearfix">
+				<ul id="countscript">
+					<li><span class="days">00</span>
+						<p>Days</p></li>
+					<li><span class="hours">00</span>
+						<p>Hours</p></li>
+					<li class="clearbox"><span class="minutes">00</span>
+						<p>Minutes</p></li>
+					<li><span class="seconds">00</span>
+						<p>Seconds</p></li>
+				</ul>
+			</div>
+
 		</div>
-	
 	</div>
-</div>
 
-<div class="arrow-separator arrow-themelight"></div>
+	<div class="arrow-separator arrow-theme"></div>
 
-<div class="fullwidth colour3 clearfix">
-	<div id="quotecont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
+	<div class="fullwidth colour2 clearfix">
+		<div id="maincont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
 
-        <div id="commentslider" class="owl-carousel">
-            <div class="item">
-                <p>"<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Donec quis enim nulla. <em>Suspendisse posuere</em> arcu ac eros iaculis egestas commodo risus tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas."</p>
-            	<p class="author">- Andrew Smith</p>
-            </div>
-            <div class="item">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce placerat nulla nisi</em>."</p>
-            	<p class="author">- Laura Roberts</p>
-            </div>
-            <div class="item">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce placerat</em> nulla nisi. Proin congue erat non orci adipiscing nec <strong>porttitor</strong> lacus egestas."</p>
-            	<p class="author">- David Jones</p>
+			<p>
+				<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. <a title="" href="#">Donec quis enim nulla</a>. Suspendisse posuere arcu ac eros iaculis egestas
+				commodo risus tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas. <em>Donec venenatis</em>, risus et hendrerit ultrices,
+				libero sem lacinia risus, ut convallis massa sapien nec libero. Suspendisse arcu orci, gravida nec aliquet ut, lacinia non nisl.
+			</p>
+			<h2>Sign up and we'll let you know when we launch</h2>
+			<p>
+				If you would like to receive <strong>news and special offers</strong> please send us your email address below:
+			</p>
+			<div id="signupform" class="sb-search clearfix">
+				<form method="post" id="contact" class="clearfix">
+					<input name="email" class="sb-search-input" placeholder="Enter email ..." type="text" value=""> <input class="sb-search-submit" value="" type="submit">
+					<button class="formbutton" type="submit">
+						<span class="fa fa-search"></span>
+					</button>
+				</form>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="arrow-separator arrow-themelight"></div>
+
+	<div class="fullwidth colour3 clearfix">
+		<div id="quotecont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
+
+			<div id="commentslider" class="owl-carousel">
+				<div class="item">
+					<p>
+						"<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Donec quis enim nulla. <em>Suspendisse posuere</em> arcu ac eros iaculis egestas commodo risus
+						tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas."
+					</p>
+					<p class="author">- Andrew Smith</p>
+				</div>
+				<div class="item">
+					<p>
+						"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce
+							placerat nulla nisi</em>."
+					</p>
+					<p class="author">- Laura Roberts</p>
+				</div>
+				<div class="item">
+					<p>
+						"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce
+							placerat</em> nulla nisi. Proin congue erat non orci adipiscing nec <strong>porttitor</strong> lacus egestas."
+					</p>
+					<p class="author">- David Jones</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="arrow-separator arrow-grey"></div>
+
+	<div class="fullwidth clearfix">
+		<div id="footercont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
+
+			<p class="backtotop">
+				<a title="" href="#backtotop"><span class="fa fa-angle-double-up"></span></a>
+			</p>
+			<div id="socialmedia" class="clearfix">
+				<ul>
+					<li><a title="" href="#" rel="external"><span class="fa fa-facebook"></span></a></li>
+					<li><a title="" href="#" rel="external"><span class="fa fa-twitter"></span></a></li>
+					<li><a title="" href="#" rel="external"><span class="fa fa-google-plus"></span></a></li>
+					<li><a title="" href="#" rel="external"><span class="fa fa-linkedin"></span></a></li>
+					<li><a title="" href="#" rel="external"><span class="fa fa-pinterest"></span></a></li>
+				</ul>
+			</div>
+			<!-- <p>Free Responsive Website Template by <a title="download website templates" href="http://www.downloadwebsitetemplates.co.uk" rel="external">Download Website Templates</a> - Icons by <a title="" href="http://fortawesome.github.io/Font-Awesome/" rel="external">Font Awesome</a></p> -->
+		</div>
+	</div>
+	<div id="successModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title">Subscription confirmation</h4>
+                </div>
+                <div class="modal-body">
+                    <strong>Success!</strong> Your subscription request has been sent successfully.
+                </div>
             </div>
         </div>
-	
-	</div>
-</div>
-
-<div class="arrow-separator arrow-grey"></div>
-
-<div class="fullwidth clearfix">
-	<div id="footercont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-		<p class="backtotop"><a title="" href="#backtotop"><span class="fa fa-angle-double-up"></span></a></p>
-		<div id="socialmedia" class="clearfix">
-			<ul>
-				<li><a title="" href="#" rel="external"><span class="fa fa-facebook"></span></a></li>
-				<li><a title="" href="#" rel="external"><span class="fa fa-twitter"></span></a></li>
-				<li><a title="" href="#" rel="external"><span class="fa fa-google-plus"></span></a></li>
-				<li><a title="" href="#" rel="external"><span class="fa fa-linkedin"></span></a></li>
-				<li><a title="" href="#" rel="external"><span class="fa fa-pinterest"></span></a></li>
-			</ul>
-		</div>
-		<!-- <p>Free Responsive Website Template by <a title="download website templates" href="http://www.downloadwebsitetemplates.co.uk" rel="external">Download Website Templates</a> - Icons by <a title="" href="http://fortawesome.github.io/Font-Awesome/" rel="external">Font Awesome</a></p> -->
-	</div>
-</div>
-   
+    </div>
+    <div id="errorModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title">Subscription confirmation</h4>
+                </div>
+                <div class="modal-body">
+                    <strong>Ooops!</strong> Tray again..
+                </div>
+            </div>
+        </div>
+    </div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="${pageContext.request.contextPath}/resources/js/jquery.js"></script>
 	<script src="${pageContext.request.contextPath}/resources/js/countdown.js"></script>
 	<script src="${pageContext.request.contextPath}/resources/js/owlcarousel.js"></script>
 	<script src="${pageContext.request.contextPath}/resources/js/uikit.scrollspy.js"></script>
 	<script src="${pageContext.request.contextPath}/resources/js/scripts.js"></script>
+	<script src="${pageContext.request.contextPath}/resources/js/ufc.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="${pageContext.request.contextPath}/resources/lib/bootstrap/js/bootstrap.min.js"></script>
 </body>
