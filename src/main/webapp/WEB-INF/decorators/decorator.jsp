@@ -74,7 +74,7 @@
 				<span>Urban Factory</span><br />is coming soon
 			</h1>
 			<p>
-				It's almost ready to redefine the <span>fashion</span>
+				We&#8217;re here to redefine style and <span>fashion</span>
 			</p>
 
 		</div>
@@ -107,13 +107,13 @@
 		<div id="maincont" class="bodycontainer clearfix" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
 
 			<p>
-				<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. <a title="" href="#">Donec quis enim nulla</a>. Suspendisse posuere arcu ac eros iaculis egestas
-				commodo risus tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas. <em>Donec venenatis</em>, risus et hendrerit ultrices,
-				libero sem lacinia risus, ut convallis massa sapien nec libero. Suspendisse arcu orci, gravida nec aliquet ut, lacinia non nisl.
+				<strong>Urban Factory</strong> is a technology driven global platform that gives power and opportunity for aspiring modern <em>fashion designers, boutique owners and young
+					talented fashionistas</em> to fuse entrepreneurship and their creative skills to create products for optimal marketing, merchandising, and delivery to the broad section of users
+				through our trusted partners.
 			</p>
-			<h2>Sign up and we'll let you know when we launch</h2>
+			<h2>Sign up and we&#8217;ll let you know when we launch</h2>
 			<p>
-				If you would like to receive <strong>news and special offers</strong> please send us your email address below:
+				If you are interested and would like to receive <strong>updates</strong> send us your email address below:
 			</p>
 			<div id="signupform" class="sb-search clearfix">
 				<form method="post" id="contact" class="clearfix">
@@ -123,7 +123,6 @@
 					</button>
 				</form>
 			</div>
-
 		</div>
 	</div>
 
@@ -135,24 +134,51 @@
 			<div id="commentslider" class="owl-carousel">
 				<div class="item">
 					<p>
-						"<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Donec quis enim nulla. <em>Suspendisse posuere</em> arcu ac eros iaculis egestas commodo risus
-						tempus. Fusce placerat nulla nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas."
+						&#8220;<em>The difference between style and fashion is quality.</em>&#8221;
 					</p>
-					<p class="author">- Andrew Smith</p>
+					<p class="author">- Giorgio Armani</p>
 				</div>
 				<div class="item">
 					<p>
-						"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce
-							placerat nulla nisi</em>."
+						&#8220;<em>Fashion is not necessarily about labels. It&#8217;s not about brands. It&#8217;s about something else that comes from within you.</em>&#8221;
 					</p>
-					<p class="author">- Laura Roberts</p>
+					<p class="author">- Ralph Lauren</p>
 				</div>
 				<div class="item">
 					<p>
-						"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla. Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce
-							placerat</em> nulla nisi. Proin congue erat non orci adipiscing nec <strong>porttitor</strong> lacus egestas."
+						&#8220;<em>What survives the whole process is what people wear. I&#8217;m not interested in making clothes that end up in some dusty museum.</em>&#8221;
 					</p>
-					<p class="author">- David Jones</p>
+					<p class="author">- Mark Jacobs</p>
+				</div>
+				<div class="item">
+					<p>
+						&#8220;<em>Fashion is very important. It is life-enhancing and like everything that gives pleasure. It is worth doing well.</em>&#8221;
+					</p>
+					<p class="author">- Vivienne Westwood</p>
+				</div>
+				<div class="item">
+					<p>
+						&#8220;<em>Dress shabbily and they remember the dress&#59; dress impeccably and they <strong>remember the woman</strong>.</em>&#8221;
+					</p>
+					<p class="author">- Coco Chanel</p>
+				</div>
+				<div class="item">
+					<p>
+						&#8220;<em>You can never be overdressed or overeducated.</em>&#8221;
+					</p>
+					<p class="author">- Oscar Wilde</p>
+				</div>
+				<div class="item">
+					<p>
+						&#8220;<em>A girl should be two things: classy and fabulous.</em>&#8221;
+					</p>
+					<p class="author">- Coco Chanel</p>
+				</div>
+				<div class="item">
+					<p>
+						&#8220;<em>A <strong>woman&#8217;s</strong> dress should be a like a barbed-wire fence: serving its purpose without obstructing the view.</em>&#8221;
+					</p>
+					<p class="author">- Sophia Loren</p>
 				</div>
 			</div>
 
@@ -180,31 +206,35 @@
 		</div>
 	</div>
 	<div id="successModal" class="modal fade" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title">Subscription confirmation</h4>
-                </div>
-                <div class="modal-body">
-                    <strong>Success!</strong> Your subscription request has been sent successfully.
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="errorModal" class="modal fade" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-sm">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title">Subscription confirmation</h4>
-                </div>
-                <div class="modal-body">
-                    <strong>Ooops!</strong> Tray again..
-                </div>
-            </div>
-        </div>
-    </div>
+		<div class="modal-dialog modal-sm">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Subscription confirmation</h4>
+				</div>
+				<div class="modal-body">
+					<strong>Success!</strong> Your subscription request has been sent.
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="errorModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-sm">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<h4 class="modal-title">Subscription confirmation</h4>
+				</div>
+				<div class="modal-body">
+					<strong>Ooops!</strong> Tray again..
+				</div>
+			</div>
+		</div>
+	</div>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="${pageContext.request.contextPath}/resources/js/jquery.js"></script>
 	<script src="${pageContext.request.contextPath}/resources/js/countdown.js"></script>

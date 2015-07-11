@@ -1,19 +1,21 @@
 var ufc = {
 	postForm : function() {
-		console.log('submit');
 		$
 				.ajax({
 					type : "POST",
 					url : "/subscription",
-					data : 'raj.jsp@gmail.com',
+					data : $('#contact').find('input[name="email"]').val(),
 					contentType : 'application/json',
 					success : function(res) {
 						if (res && res.content
 								&& res.content === 'Saved successfully') {
 							$("#successModal").modal('toggle');
-						} else{
+						} else {
 							$("#errorModal").modal('toggle');
 						}
+					},
+					error : function(err) {
+						$("#errorModal").modal('toggle');
 					}
 				});
 	}
