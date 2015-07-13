@@ -1,0 +1,9 @@
+<html>
+    <body>
+        <h3>Hello, Urban Factory
+         
+        </h3>
+        <p>We have received a subscription request from : ${email}</p>
+        
+    </body>
+</html>

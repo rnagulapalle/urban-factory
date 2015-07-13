@@ -1,5 +1,6 @@
 package com.ufc.bootstrapper.config;
 
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
@@ -10,7 +11,8 @@ import org.springframework.context.annotation.Import;
  * Time: 12:34 PM
  */
 @Configuration
-@Import(MetricsConfiguration.class)
+@ComponentScan("com.ufc")
+@Import({MetricsConfiguration.class, MailConfiguration.class})
 public class AppConfiguration {
 }
 
