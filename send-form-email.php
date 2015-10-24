@@ -86,7 +86,7 @@ if(isset($_POST['email'])) {
             'html'=>'<html><body><h1>Congratulations, {{name}}!</h1><br/><p>'.$email_message.'</p></body></html>',
             'text'=>'Congratulations, {{name}}!! You just sent your very first mailing!\n'.$email_message,
             'substitutionData'=>array('name'=>'You have received an inquiry'),
-            'recipients'=>array(array('address'=>array('name'=>'Raj', 'email'=>'raj@urcloset.in' )))
+            'recipients'=>array(array('address'=>array('name'=>'Madhuri Lakkapragada', 'email'=>'madhuri@urbanfactory.in' )))
         ));
 
         send_request('Thank you for contacting us. We will be in touch with you very soon.');
