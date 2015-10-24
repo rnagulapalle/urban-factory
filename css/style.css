@@ -1837,7 +1837,7 @@ button.btn-sm {
 
 //custom logo text color added by raj
 .devshop {
-    color: #2ac5ed;
+    color: #fff important!;
 }
 .about-us {
     font-size: 15px;
