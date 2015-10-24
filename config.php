@@ -2,7 +2,7 @@
 //Contact form config
 //$email_to = "hello@youremailaddress.com";
 $email_to = "raj@urcloset.in";
-$email_subject = "Feedback form submitted";
+$email_subject = "Contact form submitted";
 
 //recaptcha config
 $use_recaptcha = false;
