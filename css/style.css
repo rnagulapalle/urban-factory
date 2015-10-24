@@ -127,8 +127,8 @@ h6 {
 	line-height: 16px;
 }
 .large-title {
-    font-size: 80px;
-    line-height: 70px;
+    font-size: 30px;
+    line-height: 50px;
 }
 p {
 	font-size: 15px;
@@ -869,7 +869,7 @@ section {
     right:-12px;
 }
 .milestones-list .benefit .name {
-    font-size: 20px;
+    font-size: 15px;
 }
 #pricing {}
 #pricing .pricing-top {
@@ -1847,8 +1847,8 @@ h2.all-things {
     font-size: 47px;
 }
 img.team {
-    max-height: 360px;
-    max-width: 360px;
+    max-height: 195px;
+    max-width: 195px;
 }
 a.logo {
     text-decoration: none;
